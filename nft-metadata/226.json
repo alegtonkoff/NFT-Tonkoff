@@ -1,0 +1,20 @@
+{
+  "name": "TONKOFF #226",
+  "image": "226.png",
+  "description": null,
+  "attributes": [
+    {
+      "trait_type": "Items",
+      "value": "Tonkoff Nft Gems"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Tonkoff Nft Body 1"
+    },
+    {
+      "trait_type": "Bakground",
+      "value": "Tonkoff Nft Bg 2"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

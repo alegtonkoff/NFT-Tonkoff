@@ -1,0 +1,20 @@
+{
+  "name": "TONKOFF #222",
+  "image": "222.png",
+  "description": null,
+  "attributes": [
+    {
+      "trait_type": "Items",
+      "value": "Tonkoff Nft Bg Money"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Tonkoff Nft Body 15"
+    },
+    {
+      "trait_type": "Bakground",
+      "value": "Tonkoff Nft Bg 4"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}
