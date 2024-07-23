@@ -1,0 +1,20 @@
+{
+  "name": "TONKOFF #358",
+  "image": "358.png",
+  "description": null,
+  "attributes": [
+    {
+      "trait_type": "Items",
+      "value": "Tonkoff Nft Joint"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Tonkoff Nft Body 9"
+    },
+    {
+      "trait_type": "Bakground",
+      "value": "Tonkoff Nft Bg 2"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}
