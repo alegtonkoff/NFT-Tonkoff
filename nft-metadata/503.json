@@ -1,0 +1,20 @@
+{
+  "name": "TONKOFF #503",
+  "image": "503.png",
+  "description": null,
+  "attributes": [
+    {
+      "trait_type": "Items",
+      "value": "Tonkoff Nft Cigar"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Tonkoff Nft Body 2"
+    },
+    {
+      "trait_type": "Bakground",
+      "value": "Tonkoff Nft Bg 1"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

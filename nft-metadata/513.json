@@ -1,0 +1,20 @@
+{
+  "name": "TONKOFF #513",
+  "image": "513.png",
+  "description": null,
+  "attributes": [
+    {
+      "trait_type": "Items",
+      "value": "Tonkoff Nft Wine"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Tonkoff Nft Body 1"
+    },
+    {
+      "trait_type": "Bakground",
+      "value": "Tonkoff Nft Bg 8"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}
