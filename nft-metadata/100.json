@@ -1,0 +1,24 @@
+{
+  "name": "TONKOFF #100",
+  "image": "100.png",
+  "description": null,
+  "attributes": [
+    {
+      "trait_type": "Gadget",
+      "value": ""
+    },
+    {
+      "trait_type": "Items",
+      "value": "Tonkoff Nft Glasses Gadget Rare"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Tonkoff Nft Body 13"
+    },
+    {
+      "trait_type": "Bakground",
+      "value": "Tonkoff Nft Bg 14"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

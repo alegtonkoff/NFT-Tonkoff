@@ -1,0 +1,20 @@
+{
+  "name": "TONKOFF #11",
+  "image": "11.png",
+  "description": null,
+  "attributes": [
+    {
+      "trait_type": "Items",
+      "value": "Tonkoff Nft Joint"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Tonkoff Nft Body 11"
+    },
+    {
+      "trait_type": "Bakground",
+      "value": "Tonkoff Nft Bg 15 Rare"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}
