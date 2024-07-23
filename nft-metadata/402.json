@@ -1,0 +1,20 @@
+{
+  "name": "TONKOFF #402",
+  "image": "402.png",
+  "description": null,
+  "attributes": [
+    {
+      "trait_type": "Items",
+      "value": "Tonkoff Nft Wine"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Tonkoff Nft Body 12"
+    },
+    {
+      "trait_type": "Bakground",
+      "value": "Tonkoff Nft Bg 1"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

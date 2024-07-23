@@ -1,0 +1,20 @@
+{
+  "name": "TONKOFF #500",
+  "image": "500.png",
+  "description": null,
+  "attributes": [
+    {
+      "trait_type": "Items",
+      "value": "Tonkoff Nft Wine"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Tonkoff Nft Body 17"
+    },
+    {
+      "trait_type": "Bakground",
+      "value": "Tonkoff Nft Bg 4"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

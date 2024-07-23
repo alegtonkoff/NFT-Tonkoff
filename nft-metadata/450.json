@@ -1,0 +1,20 @@
+{
+  "name": "TONKOFF #450",
+  "image": "450.png",
+  "description": null,
+  "attributes": [
+    {
+      "trait_type": "Items",
+      "value": "Tonkoff Nft Gun"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Tonkoff Nft Body 12"
+    },
+    {
+      "trait_type": "Bakground",
+      "value": "Tonkoff Nft Bg 2"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}

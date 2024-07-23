@@ -1,0 +1,20 @@
+{
+  "name": "TONKOFF #442",
+  "image": "442.png",
+  "description": null,
+  "attributes": [
+    {
+      "trait_type": "Items",
+      "value": "Tonkoff Nft Bg Money"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Tonkoff Nft Body 1"
+    },
+    {
+      "trait_type": "Bakground",
+      "value": "Tonkoff Nft Bg 2"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}
