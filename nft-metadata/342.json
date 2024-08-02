@@ -1,0 +1,20 @@
+{
+  "name": "Aleg Tonkoff NFT #342",
+  "image": "https://link.storjsatelliteshare.io/s/jv7yd62mayyhs7wkxwjbhv6pcl7a/tonkoff-nft%2Fartwork-07-26-2024%2F342.png?view=1",
+  "description": "Tonkoff - It's better to buy than to beg later\nThe one-of-a-kind NFT collection by Aleg Tonkoff",
+  "attributes": [
+    {
+      "trait_type": "Items",
+      "value": "Tonkoff Nft Gun"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Tonkoff Nft Body 5"
+    },
+    {
+      "trait_type": "Bakground",
+      "value": "Tonkoff Nft Bg 7"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}
