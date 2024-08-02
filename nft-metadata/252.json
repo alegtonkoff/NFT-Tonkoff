@@ -1,0 +1,20 @@
+{
+  "name": "Aleg Tonkoff NFT #252",
+  "image": "https://link.storjsatelliteshare.io/s/jwclgqjbwrqurgse66miaa6ksrba/tonkoff-nft%2Fartwork-07-26-2024%2F252.png?view=1",
+  "description": "Tonkoff - It's better to buy than to beg later\nThe one-of-a-kind NFT collection by Aleg Tonkoff",
+  "attributes": [
+    {
+      "trait_type": "Items",
+      "value": "Tonkoff Nft Wine"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Tonkoff Nft Body 9"
+    },
+    {
+      "trait_type": "Bakground",
+      "value": "Tonkoff Nft Bg 10"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}
