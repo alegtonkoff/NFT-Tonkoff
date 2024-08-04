@@ -1,0 +1,20 @@
+{
+    "name": "Aleg Tonkoff NFT #285",
+    "image": "https://raw.githubusercontent.com/alegtonkoff/NFT-Tonkoff/main/artwork/285.png",
+    "description": "Tonkoff - It's better to buy than to beg later\nThe one-of-a-kind NFT collection by Aleg Tonkoff",
+    "attributes": [
+        {
+            "trait_type": "Items",
+            "value": "Tonkoff Nft Gems"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Tonkoff Nft Body 3"
+        },
+        {
+            "trait_type": "Bakground",
+            "value": "Tonkoff Nft Bg 8"
+        }
+    ],
+    "compiler": "nft-inator.com"
+}
