@@ -1,0 +1,20 @@
+{
+    "name": "Aleg Tonkoff NFT #359",
+    "image": "https://raw.githubusercontent.com/alegtonkoff/NFT-Tonkoff/main/artwork/359.png",
+    "description": "Tonkoff - It's better to buy than to beg later\nThe one-of-a-kind NFT collection by Aleg Tonkoff",
+    "attributes": [
+        {
+            "trait_type": "Items",
+            "value": "Tonkoff Nft Bg Money"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Tonkoff Nft Body 5"
+        },
+        {
+            "trait_type": "Bakground",
+            "value": "Tonkoff Nft Bg 1"
+        }
+    ],
+    "compiler": "nft-inator.com"
+}
